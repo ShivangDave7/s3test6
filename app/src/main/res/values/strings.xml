@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">shivang_s_application37</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_i_m_super_fast">I\u2019m Super Fast</string>
+<string name="lbl_continue">Continue</string>
+<string name="msg_request_demo_ac">Request Demo Account</string>
+<string name="lbl_dnd_mobile_3_0">DND Mobile 3.0</string>
+<string name="lbl_onboarding_a">Onboarding A</string>
+<string name="msg_made_to_rock_yo">Made to rock your mobile</string>
+<string name="lbl_next">Next</string>
+<string name="lbl_easy_to_use">Easy to Use</string>
+<string name="msg_check_your_app">"Check your app's UI from the below demo screens of your app."</string>
+<string name="msg_lorem_ipsum_is">Lorem ipsum is a dummy text in advertising since lorem ipsum years</string>
+<string name="lbl_onboarding_aa">Onboarding AA</string>
+<string name="lbl_dark_mode_ready">Dark Mode Ready</string>
+<string name="lbl_onboarding_aaa">Onboarding AAA</string>
+<string name="msg_simply_the_best">Simply the Best Mobile Webkit on Envato</string>
+<string name="lbl_previous">Previous</string>
+<string name="lbl_onboarding_aaaa">Onboarding AAAA</string>
+<string name="lbl_start_using_dnd">Start Using Dnd</string>
+<string name="msg_bootstrap_based">Bootstrap based code for everyone</string>
+<string name="lbl_app_navigation">App Navigation</string>
+<string name="msg_turn_off_the_li">Turn off the lights! Make it darker</string>
+<string name="msg_this_contact_has_no_phone_nu">This contact has no phone number</string>
+</resources>
